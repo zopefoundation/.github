@@ -23,7 +23,7 @@ authors have signed the contributor agreement themselves, which means
 
 Once you are a contributor you can create branches inside the zopefoundation
 repositories. Please use repository branches instead of creating private forks,
-that makes much easier for maintainers to try out or change pull requests
+that makes it much easier for maintainers to try out or change pull requests
 you create. (This is not required for your first pull request.)
 
 See [Zope Development Culture](https://www.zope.org/developer/development-culture.html)
