@@ -12,6 +12,13 @@ For any changes in the repository besides trivial typo fixes you are required
 to sign the contributor agreement. See
 https://www.zope.org/developer/becoming-a-committer.html for details.
 
+Please note that all contributions require assigning rights to your contributed
+code, such as copyright, to the Plone Foundation. It follows that you must hold
+these rights for the contribution, which is true for all code you wrote and
+authored yourself. You may only contribute code from other authors if these
+authors have signed the contributor agreement themselves, which means
+"vendoring in" of third party code is not allowed.
+
 ## Contributing code changes
 
 Once you are a contributor you can create branches inside the zopefoundation
