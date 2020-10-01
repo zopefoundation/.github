@@ -29,7 +29,7 @@ you create. (This is not required for your first pull request.)
 See [Zope Development Culture](https://www.zope.org/developer/development-culture.html)
 for details about coding standards.
 
-Please try to write tests for your changes and fix tests your code breaks.
+Please try to write tests for your changes and fix tests your code changes break.
 You should run the repository's tests locally, usually via
 [tox](https://pypi.org/project/tox/). Most repositories will have a `tox.ini`
 configuration for that purpose.
