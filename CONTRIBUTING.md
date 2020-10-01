@@ -38,3 +38,28 @@ If you create a pull request please wait for approval from at least one other
 contributor before merging. You should do that merge yourself, as it will
 prove to everyone that you have signed the contributor agreement and thus have
 the merge permission.
+
+
+## Contributing bug reports
+
+Here's how you get help most effectively:
+
+* Before filing a bug report, make sure you can reproduce the issue on a plain
+  vanilla Zope installation. If you cannot, then it's probably not a Zope bug.
+
+* Please provide as many details as possible, such as...
+
+  * Zope version
+  * Python version
+  * Operating system
+
+* It's helpful to describe bugs in terms of expected and actual outcomes, that
+  makes it easier to follow along and reproduce it: In the Zope ZMI I was
+  clicking on the Interfaces tab of a DTML Method, and instead of seeing the
+  Interfaces tab I saw the following error output: ...
+
+* If the developers need more information and follow up with questions, please
+  make sure to answer in a timely manner, especially if the issue report is
+  marked with the feedback required tag. If we don't hear from you after 2-3
+  weeks the issue may be closed.
+
