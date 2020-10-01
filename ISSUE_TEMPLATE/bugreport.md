@@ -15,6 +15,10 @@ The best reproductions are in plain Zope installations without addons or at leas
 
 -->
 
+### Version information
+
+<!-- Enter Python and Zope versions you are using -->
+
 ### What I did:
 
 <!-- Enter a reproducible description, including preconditions. -->
@@ -23,5 +27,5 @@ The best reproductions are in plain Zope installations without addons or at leas
 
 ### What actually happened:
 
-### What version of Plone/ Addons I am using:
+### What version of Zope/Addons I am using:
 
