@@ -6,7 +6,7 @@ Templates used for all repos which do not provide these files
 
 * ``SECURITY.md`` contains information on how to file security-related bugs
 
-* Files in the ``ISSUE_TEMPLATE`` folder are used as templates when
-  creating a bug tracker issue
+* Files in the ``.github/ISSUE_TEMPLATE`` folder are used as templates when
+  creating a bug tracker issue. (The nested ``.github`` is due to a GitHub bug.
 
 Documentation see https://docs.github.com/en/free-pro-team@latest/github/building-a-strong-community/creating-a-default-community-health-file
