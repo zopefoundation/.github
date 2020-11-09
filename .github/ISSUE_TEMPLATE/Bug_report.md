@@ -25,4 +25,4 @@ The best reproductions are in plain Zope installations without addons or at leas
 
 ### What version of Python and Zope/Addons I am using:
 
-<!-- Enter Python and Zope versions you are using -->
+<!-- Enter Operating system, Python and Zope versions you are using -->
