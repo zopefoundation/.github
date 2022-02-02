@@ -10,10 +10,10 @@ welcome contributions in different forms:
 
 For any changes in the repository besides trivial typo fixes you are required
 to sign the contributor agreement. See
-https://www.zope.org/developer/becoming-a-committer.html for details.
+https://www.zope.dev/developer/becoming-a-committer.html for details.
 
 Please visit our [Developer
-Guidelines](https://www.zope.org/developer/guidelines.html) if you'd like to
+Guidelines](https://www.zope.dev/developer/guidelines.html) if you'd like to
 contribute code changes and our [guidelines for reporting
-bugs](https://www.zope.org/developer/reporting-bugs.html) if you want to file a
+bugs](https://www.zope.dev/developer/reporting-bugs.html) if you want to file a
 bug report.

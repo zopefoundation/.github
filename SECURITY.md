@@ -2,7 +2,7 @@
 The Zope developer community uses the same security policy as the Plone developer community. The most up to date information about Plone security is on https://plone.org/security
 
 ## Supported Versions
-For supported versions, see the [Zope development roadmap](https://www.zope.org/developer/roadmap.html).
+For supported versions, see the [Zope development roadmap](https://www.zope.dev/developer/roadmap.html).
 
 ## Reporting a Vulnerability
 Please do **NOT** create a public bug report if you think this may be a security issue.
