@@ -1,10 +1,10 @@
 ---
-name: 🐛 Bug Report
+name: 🐛 Bug Report or feature request
 about: If something isn't working as expected.
 
 ---
 
-## BUG/PROBLEM REPORT (OR OTHER COMMON ISSUE)
+## BUG/PROBLEM REPORT / FEATURE REQUEST
 
 <!--
 
