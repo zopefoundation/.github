@@ -1,5 +1,5 @@
 ---
-name: 🐛 Bug Report or feature request
+name: 🐛 Bug Report or Feature Request
 about: If something isn't working as expected.
 
 ---
