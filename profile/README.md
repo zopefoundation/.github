@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-Welcome to the repositories of the Zope Foundation.
+Welcome to the repositories of Zope. 
 For details about the world of Zope please see our website at https://www.zope.dev.
+Zope is under the umbrella of the [Plone Foundation](https://plone.org/foundation/).
 
 ![Zope logo](https://github.com/zopefoundation/Zope/raw/master/src/zmi/styles/resources/logo/Zope.svg)
 
